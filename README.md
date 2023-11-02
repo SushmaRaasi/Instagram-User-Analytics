@@ -56,11 +56,13 @@ Here I am going to calculate the average number of posts per user on Instagram. 
 Also, I would like to provide details like the total number of photos on Instagram (257) & total number of users (100),Active users (74). So the Average is 2.57
 Based on the results, there are –
     so the average will be 257/74 = 3.47, Based on the data. we can say that an average user posts 3-4 times.<br>
+![6](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/7ae0edc7-d914-4bc4-8be2-4dde462d7956)<br>
 [Click here to see the Average number of posts per user](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=475570987) <br>
 
 <b>2)Bots & Fake Accounts:</b><br>
 Here I am going Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.So it will help the Investors to know if the platform is crowded with fake and dummy accounts. By this metric we have identified a potential impact for the investors.<br><br>
 <i><b>Keywords in Query :</i></b> count() (This function is used to count the number of rows.<br>
+![7](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/d2cb421d-8ee3-4f3a-861c-7009b0bf2d1e)<br>
 [Click here to see the Duplicate Accounts](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=1672255612) <br>
 
 ### Conclusion 
