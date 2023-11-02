@@ -28,7 +28,7 @@ You are working with the product team of Instagram and the product manager has a
 <b>1) Rewarding the Most Loyal Users:</b><br>
 Here I am going to find the 5 oldest users who have been using this platform for the longest time.So it will be helpful to the Marketing team to reward the most loyal users.<br><br>
 <b><i>Keywords in Query</i></b> : Select( For Selecting the columns ) , order by ( To Sort the Data ) , Limit ( To display the top number of rows ).<br>
-![1](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/4ab86913-0e54-4061-8696-09c934f5f030) <br>
+![Loyal Users](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/e77cdfeb-39ec-425b-938c-c571df18834b) <br>
 [Click here to see Loyal Users](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=657407722)<br>
 
 <b>2)Remind Inactive Users to Start Posting:</b><br>
