@@ -25,21 +25,27 @@ Here I am going to find the 5 oldest users who have been using this platform for
 <b>2)Remind Inactive Users to Start Posting:</b><br>
 Here I am going to Identify users who have never posted a single photo on Instagram.So it will help the Marketing team to encourage inactive users to start posting by sending them promotional emails.<br><br>
 <b><i>Keywords in Query :</i><b>  Where (Clause is used to filter the data based on condition) ,not in (include rows where a condition is not true)<br>
+![2](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/64230c74-7365-4baa-ad0f-4de5410bf44e)<br>
 [Click here to see Inactive Users](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=0) <br>
 
 <b>3) Declaring Content Winner:</b><br>
 Here I am going to Identify the maximum number of likes for the Photo and respective information of the user. So it will help the Marketing team to declare the Winner of that Contest.<br><br>
 <b><i>Keywords in Query :</i></b> inner join (this join is used to get the rows from the both columns which are having same data based applied on condition) ,group by (which is used to group the data based on column name).<br>
+![3](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/048bdedd-1dd6-4226-a45c-1699c06fc396)<br>
 [Click here to see details of Winner](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=2002864564) <br>
 
 <b>4) Hashtag Researching:</b><br>
 Here I am going to Identify the top 5 Most used Hashtags by users. So it will help the partner brands  to know the most popular hashtags to use in their posts to reach the most people.<br><br>
 <b><i>Keywords in Query :<i></b> as (this command is used to rename a column or table with an alias. An alias only exists for the duration of the query).<br>
+![4](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/61cd22db-460c-4b3f-9bde-ec722254d204)<br>
+![4 1](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/66585f7f-7318-4008-aee3-5ca440244e54)<br>
 [Click here to see top 5 hashtags](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=761976820)<br>
 
 <b>5) Launcg AD Campaign:</b><br>
 Here I Identified the Day Of the Week are Thursday and Sunday Which  help the Marketing team to know the best day to launch ads.
 (1 - Sunday to 7 - Saturday)<br>
 [Click here to see the user regestrations Vs Day of the week](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=338841784) <br>
+![5](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/9c9d77fa-5fea-4444-a2c8-17903b9961ab)<br>
+![5 1](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/49545e95-5c57-456b-b095-6240de8f9fd1)<br>
 #### Findings For Investor Metrics
 ### Conclusion
