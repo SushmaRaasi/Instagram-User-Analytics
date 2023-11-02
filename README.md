@@ -1,5 +1,14 @@
 # Instagram-User-Analytics
 
+- [Project Description](#project-description)
+- [Problem](#problem)
+- [Approach](#approach)
+- [Dataset](#dataset)
+- [Insights](#insights)
+  - [Findings For Marketing Team](#findings-for-marketing-team)
+  - [Findings For Investor Metrics](#findings-for-investor-metrics)
+- [Conclusion](#conclusion)
+
 ### Project Description
 User analysis is the process by which we track how users engage and interact with our digital product (software or mobile application) in an attempt to derive business insights for marketing, product & development teams.
 These insights are then used by teams across the business to launch a new marketing campaign, decide on features to build for an app, track the success of the app by measuring user engagement and improve the experience altogether while helping the business grow.
@@ -15,7 +24,7 @@ You are working with the product team of Instagram and the product manager has a
 ### Dataset
 [Click here to know the commands used for Analysis](https://docs.google.com/document/d/1I9AUvgB3n_Uql3Il_I22FbAfLQhhz-Rr/edit)
 ### Insights
-#### A)Findings For Marketing Team
+#### Findings For Marketing Team
 <b>1) Rewarding the Most Loyal Users:</b><br>
 Here I am going to find the 5 oldest users who have been using this platform for the longest time.So it will be helpful to the Marketing team to reward the most loyal users.<br><br>
 <b><i>Keywords in Query</i></b> : Select( For Selecting the columns ) , order by ( To Sort the Data ) , Limit ( To display the top number of rows ).<br>
@@ -48,7 +57,7 @@ Here I Identified the Day Of the Week are Thursday and Sunday Which  help the Ma
 ![5](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/9c9d77fa-5fea-4444-a2c8-17903b9961ab)<br>
 ![5 1](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/49545e95-5c57-456b-b095-6240de8f9fd1)<br>
 
-#### B)Findings For Investor Metrics
+#### Findings For Investor Metrics
 <b>1) User Engagement:</b><br>
 Here I am going to calculate the average number of posts per user on Instagram. So It will help the Investors to know if users are still active and posting on Instagram or if they are making fewer posts.<br><br>
 <b><i>Keywords in Query :</i></b> left join (this join is used to get the all rows from the left table and matching rows from the right table based applied on condition)<br><br>
