@@ -48,25 +48,25 @@ Here I Identified the Day Of the Week are Thursday and Sunday Which  help the Ma
 ![5](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/9c9d77fa-5fea-4444-a2c8-17903b9961ab)<br>
 ![5 1](https://github.com/SushmaRaasi/Instagram-User-Analytics/assets/79751402/49545e95-5c57-456b-b095-6240de8f9fd1)<br>
 
-#### B)Findings For Investor Metrics <br>
+#### B)Findings For Investor Metrics
 <b>1) User Engagement:</b><br>
-Here I am going to calculate the average number of posts per user on Instagram. So It will help the Investors to know if users are still active and posting on Instagram or if they are making fewer posts.<br>
-<b><i>Keywords in Query :</i></b> left join (this join is used to get the all rows from the left table and matching rows from the right table based applied on condition)<br>
+Here I am going to calculate the average number of posts per user on Instagram. So It will help the Investors to know if users are still active and posting on Instagram or if they are making fewer posts.<br><br>
+<b><i>Keywords in Query :</i></b> left join (this join is used to get the all rows from the left table and matching rows from the right table based applied on condition)<br><br>
 <b><i>Quantitative Metrics:</b></i><br>
 Also, I would like to provide details like the total number of photos on Instagram (257) & total number of users (100),Active users (74). So the Average is 2.57
 Based on the results, there are –
-    so the average will be 257/74 = 3.47, Based on the data. we can say that an average user posts 3-4 times.
-[Click here to see the Average number of posts per user](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=475570987)
+    so the average will be 257/74 = 3.47, Based on the data. we can say that an average user posts 3-4 times.<br>
+[Click here to see the Average number of posts per user](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=475570987) <br>
 
 <b>2)Bots & Fake Accounts:</b><br>
-Here I am going Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.So it will help the Investors to know if the platform is crowded with fake and dummy accounts. By this metric we have identified a potential impact for the investors.<br>
-<i><b>Keywords in Query :</i></b> count() (This function is used to count the number of rows.
+Here I am going Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.So it will help the Investors to know if the platform is crowded with fake and dummy accounts. By this metric we have identified a potential impact for the investors.<br><br>
+<i><b>Keywords in Query :</i></b> count() (This function is used to count the number of rows.<br>
 [Click here to see the Duplicate Accounts](https://docs.google.com/spreadsheets/d/1OPE56YzaY_bdorXgr4XLzBNEXPd4NKiyoQ9K6WI5up0/edit#gid=1672255612) <br>
 
 ### Conclusion 
-From this project, I got an idea about how as a business or data analyst we work on real-time data to take and data-driven decisions.
+<p>From this project, I got an idea about how as a business or data analyst we work on real-time data to take and data-driven decisions.
 One thing I infer about this project is the dataset provided was very limited and small in respect of Rows and columns, but still, it was a very good experience working on such a project.
-It helped me a lot to understand the analysis process well, and to provide insights for the best decision possible.
+It helped me a lot to understand the analysis process well, and to provide insights for the best decision possible.</p>
 
 
 
